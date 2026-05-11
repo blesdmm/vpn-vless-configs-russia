@@ -1,0 +1,1 @@
+vless://82b5b465-3307-4a25-acef-abd1649bbedf@nl1.samovargate.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&security=tls&sid=f04729f65b9ea261&sni=www.microsoft.com#%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
