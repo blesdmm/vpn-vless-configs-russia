@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-26T14:30:56.316646",
+  "timestamp": "2026-05-26T19:52:35.127905",
   "github_mirror_clean": {
-    "ss": 4,
+    "ss": 2,
     "trojan": 1,
     "vless": 12,
     "vmess": 5
@@ -9,12 +9,12 @@
   "ru_sni_filtered": {
     "ss": 0,
     "trojan": 0,
-    "vless": 5,
+    "vless": 3,
     "vmess": 0
   },
   "totals": {
-    "clean": 22,
-    "ru_sni": 5,
-    "filter_rate": 22.73
+    "clean": 20,
+    "ru_sni": 3,
+    "filter_rate": 15.0
   }
 }
