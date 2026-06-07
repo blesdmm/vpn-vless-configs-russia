@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-07T02:05:16.035544",
+  "timestamp": "2026-06-07T08:42:34.969919",
   "github_mirror_clean": {
     "hysteria2": 2,
     "ss": 3,
     "trojan": 2,
-    "vless": 13,
+    "vless": 14,
     "vmess": 1
   },
   "ru_sni_filtered": {
@@ -15,8 +15,8 @@
     "vmess": 0
   },
   "totals": {
-    "clean": 21,
+    "clean": 22,
     "ru_sni": 4,
-    "filter_rate": 19.05
+    "filter_rate": 18.18
   }
 }
