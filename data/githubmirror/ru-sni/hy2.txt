@@ -1,3 +1,2 @@
-hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#US 🇺🇸 | @Raydikalx | 9F4034 | 116ms
-hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#JP 🇯🇵 | @Raydikalx | 088A8F | 162ms
-hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%A6%8475%40oneclickvpnkeys | 199ms
+hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%A6%8475%40oneclickvpnkeys | 125ms
+hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#JP 🇯🇵 | @Raydikalx | 088A8F | 263ms
