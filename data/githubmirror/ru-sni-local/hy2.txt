@@ -1,0 +1,2 @@
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#NL 🇳🇱 | @Raydikalx | E62D0C | 138ms
+hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=speedtest.tinkoff.ru#RO 🇷🇴 | @Raydikalx | 56D44A | 152ms
