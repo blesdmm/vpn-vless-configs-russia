@@ -1,6 +1,6 @@
-hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%A6%8475%40oneclickvpnkeys | 129ms
-hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#NL 🇳🇱 | @Raydikalx | E62D0C | 138ms
-hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=speedtest.tinkoff.ru#RO 🇷🇴 | @Raydikalx | 56D44A | 152ms
-hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#JP 🇯🇵 | @Raydikalx | EE8BCF | 172ms
-hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#JP 🇯🇵 | @Raydikalx | 088A8F | 266ms
-hy2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#US 🇺🇸 | @Raydikalx | 7ED864 | 305ms
+hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#US 🇺🇸 | @Raydikalx | 9F4034 | 51ms
+hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%A6%8475%40oneclickvpnkeys | 111ms
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#NL 🇳🇱 | @Raydikalx | E62D0C | 123ms
+hy2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#DE 🇩🇪 | @Raydikalx | BDFAB1 | 133ms
+hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#JP 🇯🇵 | @Raydikalx | 088A8F | 239ms
+hy2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#hysteria2-1853488229 | 311ms
